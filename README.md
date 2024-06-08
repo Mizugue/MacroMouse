@@ -6,6 +6,7 @@
   - [Max 11 keys for execution]
   - [Menu with all keys (Mouse has two keys (m:l(left click) and m:r(right click))]
   - [Usage very easy]
+  - [Duration 0 = unlimited duration]
     
 ---
 
